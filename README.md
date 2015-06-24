@@ -1,6 +1,10 @@
 # openbrowser
 在sublime里打开浏览器，可以自定义配置打开的`uri`
 
+## 安装
+1. `git clone https://github.com/xuexb/OpenBrowser.git`
+2. `mv ./OpenBrowser ${packages}`
+
 ## 路径配置
 打开方式：
 
