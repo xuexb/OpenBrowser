@@ -1,0 +1,7 @@
+[
+    { 
+    	"id": "openbrowsermenu",
+    	"command": "open_browser",
+    	"caption": "在浏览器打开"
+    }
+]
